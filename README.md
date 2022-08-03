@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @xbxiong
 - 👀 I’m interested in efficiency training and inference of GNN.
 - 🌱 I’m currently learning about Graph neural network acceleration algorithm at ict-GIMlab.
-- 💞️ I’m a master of Shanghaitech University.
 - 📫 How to reach me e-mali: xbxiong@shanghaitech.edu.cn
 
 <!---
